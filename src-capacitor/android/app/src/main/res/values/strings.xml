@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Lady Styles</string>
+    <string name="title_activity_main">Lady Styles</string>
+    <string name="package_name">com.ladyStyles.app</string>
+    <string name="custom_url_scheme">com.ladyStyles.app</string>
+</resources>

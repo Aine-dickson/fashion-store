@@ -1,0 +1,13 @@
+{
+  "name": "fashion-store",
+  "version": "0.0.1",
+  "description": "A store for online fashion shopping",
+  "author": "Ainebyoona Dickson <92643336+Aine-dickson@users.noreply.github.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^5.2.1",
+    "@capacitor/app": "^5.0.0",
+    "@capacitor/cli": "^5.0.0",
+    "@capacitor/core": "^5.0.0"
+  }
+}
