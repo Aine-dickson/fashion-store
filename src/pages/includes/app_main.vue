@@ -1,7 +1,7 @@
 <template>
     <main class="relative h-full">
         <transition>
-            <section v-if="menuState" @click="toggleMenu" class="absolute top-0 bottom-0 w-full bg-gray-900 bg-opacity-50">
+            <section v-if="menuState" @click="toggleMenu" class="z-30 absolute top-0 bottom-0 w-full bg-gray-900 bg-opacity-50">
                 <app_nav/>
             </section>
         </transition>

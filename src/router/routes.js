@@ -34,6 +34,11 @@ const routes = [
         name: 'accounts',
         component: () => import('pages/account/main.vue')
       },
+      {
+        path: '/add product',
+        name: 'addItem',
+        component: () => import('pages/admin/main.vue')
+      },
       
     ]
   },
